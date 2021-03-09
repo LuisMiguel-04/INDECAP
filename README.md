@@ -1,3 +1,3 @@
 # INDECAP
-![ ] (spiderman.gif)
+![](spìderman.gif)
 
